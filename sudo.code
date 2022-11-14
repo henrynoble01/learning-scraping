@@ -1,0 +1,15 @@
+Import Dependencies
+
+Gat a list of novel you want to scrape from LNMTL
+
+put them inside a list
+
+put the main url inside a variable
+
+initialize an empty list for storing the Dictionary of the values
+
+name of property  of that i want to get 
+
+[novel_name, 'novel_description, novel_description_source, novel_rating, novel_chapter_lists]
+
+"2062" 
